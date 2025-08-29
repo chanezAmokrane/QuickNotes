@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\QuickNotes.csproj": {}
+    "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\QuickNotes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\QuickNotes.csproj": {
+    "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\QuickNotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\QuickNotes.csproj",
+        "projectUniqueName": "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\QuickNotes.csproj",
         "projectName": "QuickNotes",
-        "projectPath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\QuickNotes.csproj",
+        "projectPath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\QuickNotes.csproj",
         "packagesPath": "C:\\Users\\chane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\obj\\",
+        "outputPath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chane\\AppData\\Roaming\\NuGet\\NuGet.Config",

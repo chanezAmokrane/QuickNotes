@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using QuickNotes.Model;
-using QuickNotes.Model;
+
 
 namespace QuickNotes.Data
 {

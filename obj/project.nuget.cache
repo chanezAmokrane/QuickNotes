@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yUKj9743aEA=",
+  "dgSpecHash": "6coUFfNxumo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\QuickNotes\\QuickNotes.csproj",
+  "projectFilePath": "C:\\Users\\chane\\source\\repos\\QuickNotes\\quickNotes\\QuickNotes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chane\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\chane\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
